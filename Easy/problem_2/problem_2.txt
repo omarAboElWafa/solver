@@ -1,0 +1,1 @@
+Print out all the odd or even numbers up to a given number N.
