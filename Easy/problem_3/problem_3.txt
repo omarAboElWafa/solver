@@ -1,0 +1,2 @@
+We are given some positive integer n. Develope a function that compute the factorial of n and return it.
+(you can use loops)
